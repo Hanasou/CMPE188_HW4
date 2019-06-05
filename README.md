@@ -1,2 +1,3 @@
 # CMPE188_HW4
-PCA and K-Modes Clustering
+P1: Implementation of PCA
+P2: Implementation of "K-Modes" Clustering
